@@ -42,7 +42,7 @@ A comprehensive guide to all available methods for spoofing your iPhone's GPS lo
 
 5. **App Store Location Spoofing Apps**
 
-6. **VPN & Proxy with GPS Injection**
+6. **VPN & Proxy**
 
 7. **`simctl` Command-Line Simulation (Xcode CLI)**
 
@@ -55,7 +55,7 @@ A comprehensive guide to all available methods for spoofing your iPhone's GPS lo
     **Pros:** System-wide spoofing, highly stable.
     **Cons:** Requires purchase of dedicated hardware.
 
-    **Learn More:** docs/hardware-devices.md
+    **Learn More:** [docs/hardware-devices.md](docs/hardware-devices.md)
 
 2. **Bluetooth GPS Receivers Box & Dongles(Hardware)-External GPS singal reciever simulater**
 
@@ -64,7 +64,7 @@ A comprehensive guide to all available methods for spoofing your iPhone's GPS lo
     **Pros:** Portable, app-independent.
     **Cons:** Hardware cost.
 
-    **Learn More:** docs/bluetooth-dongles.md
+    **Learn More:** [docs/bluetooth-dongles.md](docs/bluetooth-dongles.md)
 
 3. **Xcode & macOS Developer Simulation - developer simulation function with computer**
 
@@ -73,7 +73,7 @@ A comprehensive guide to all available methods for spoofing your iPhone's GPS lo
     **Pros:** Free, precise GPX support.
     **Cons:** Requires Mac, manual to set up, only for testing apps.
 
-    **Learn More:** docs/xcode-simulation.md
+    **Learn More:** [docs/xcode-simulation.md](docs/xcode-simulation.md)
 
 4. **Third-Party Desktop Applications - developer simulation function with computer**
 
@@ -84,7 +84,7 @@ A comprehensive guide to all available methods for spoofing your iPhone's GPS lo
     **Pros:** User-friendly, some free trials.
     **Cons:** Paid license,Requires Mac or PC,potential security flags.
 
-    **Learn More:** docs/desktop-tools.md
+    **Learn More:** [docs/desktop-tools.md](docs/desktop-tools.md)
 
 5. **App Store Location Spoofing Apps**
 
@@ -95,7 +95,7 @@ A comprehensive guide to all available methods for spoofing your iPhone's GPS lo
     **Pros:** No desktop needed.
     **Cons:** Limited to within-app,can not affact the iPhone GPS locaiton. App Store may remove them.
 
-    **Learn More:** docs/app-store-apps.md
+    **Learn More:** [docs/app-store-apps.md](docs/app-store-apps.md)
 
 6. **VPN & Proxy**
 
@@ -104,7 +104,7 @@ A comprehensive guide to all available methods for spoofing your iPhone's GPS lo
     **Pros:** IP privacy.
     **Cons:** Only IP address can be modified. The GPS data can not be changed. Variable reliability, subscription costs.
 
-    **Learn More:** docs/vpn-proxy.md
+    **Learn More:** [docs/vpn-proxy.md](docs/vpn-proxy.md)
 
 7. **`simctl` Command-Line Simulation (Xcode CLI)**
 
@@ -113,7 +113,7 @@ A comprehensive guide to all available methods for spoofing your iPhone's GPS lo
     **Pros:** Scriptable, integrates into CI/CD.
     **Cons:** Requires Xcode CLI, less GUI.
 
-    **Learn More:** docs/simctl-cli.md
+    **Learn More:** [docs/simctl-cli.md](docs/simctl-cli.md)
 
 ## ⚖️ Legal & Ethical Considerations
 
