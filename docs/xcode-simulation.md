@@ -94,9 +94,8 @@ Paste this example content:
 ```
 
 2. Add the GPX File:
-  Use Debug → Simulate Location → Add GPX File to Workspace…
-
-Or set it as default in Scheme → Run → Options
+  Use Debug → Simulate Location → Add GPX File to Workspace… 
+  Or set it as default in Scheme → Run → Options
 
 Xcode will simulate movement along the waypoints.
 
