@@ -78,7 +78,7 @@ Before downloading any "location changer" app from the App Store:
 If you're looking for a **reliable, non-jailbreak GPS spoofing solution**, the [**GFaker GF II**](https://www.gfaker.com/product/gfaker-gf/) is one of the most trusted tools in the industry.
 
 ### ✅ Features:
-- Fully supports **iOS 9 through iOS 18**
+- Fully supports **iOS 9 through iOS 26**
 - Plug-and-play via Lightning/Type-C connection
 - Works via Apple Developer Mode (no jailbreak required)
 - Compatible with apps like **Find My**, **Pokémon GO**, and **Life360**

@@ -130,7 +130,7 @@ For users who want a **simple, plug-and-play solution**, we strongly recommend:
 ### 🔥 Benefits:
 
 - No Mac or Xcode required
-- Works with **ALL iOS versions (iOS 9 to iOS 18)**
+- Works with **ALL iOS versions (iOS 9 to iOS 26)**
 - System-level spoofing — affects ALL apps (e.g. Maps, Life360, Find My)
 - Supports static and moving (route) simulation
 - Ultra user-friendly: **2 steps and you're done**

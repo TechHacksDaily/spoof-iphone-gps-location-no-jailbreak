@@ -35,7 +35,7 @@ This method bypasses the need for jailbreaking or OS-level tampering, making it 
 | **Jailbreak Required**           | ✅ No                                              | ✅ No Required                                  |
 | **Stability & Reliability**      | ✅ High                                            | ❌ Can be unstable with big computer      |
 | **Ease of Use**                  | ✅ Plug-and-play. Portable                         | ❌ Movement can be diffcult with PC or Mac           |
-| **iOS Compatibility**            | ✅ Supports **iOS 9 to iOS 18**                    | ❌ Frequently blocked by system updates           |
+| **iOS Compatibility**            | ✅ Supports **iOS 9 to iOS 26**                    | ❌ Frequently blocked by system updates           |
 | **Detection Risk**               | ❌ Low (developer interface)                       | ⚠️ Higher (can be flagged by apps)               |
 | **Flexibility & Control**        | ✅ Real-time movement, waypoint routing            | ⚠️ Limited unless jailbroken                      |
 | **Altitude (Elevation) Support** | ❌ Not supported – no altitude data spoofed        | ❌ Not supported             |
@@ -51,7 +51,7 @@ One key limitation of external GPS spoofing devices is that they **only simulate
 
 ## ✅ Bonus Advantage – Full iOS Compatibility
 
-As of now, these devices support **all iOS versions from iOS 9 to iOS 18**, including the latest system updates. This makes them one of the most future-proof and universally compatible location spoofing solutions on the market.
+As of now, these devices support **all iOS versions from iOS 9 to iOS 26**, including the latest system updates. This makes them one of the most future-proof and universally compatible location spoofing solutions on the market.
 
 ---
 

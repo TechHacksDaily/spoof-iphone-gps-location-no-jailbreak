@@ -12,7 +12,7 @@ While many paid tools promise easy GPS spoofing for iPhones, **GeoPort** stands 
 </p>
 
 GeoPort is an open‑source tool that connects your iPhone via USB or LAN to your computer. It uses **Apple’s Developer Mode features** to inject GPS coordinates into your device—no jailbreak needed.  
-- Supports **iOS 9 & iOS 18**  
+- Supports **iOS 9 & iOS 26**  
 - GPL‑3.0 open‑source  
 - Built with Python, Flask, pymobiledevice3  
 
@@ -100,7 +100,7 @@ If you'd rather avoid any setup and want **one-button GPS spoofing**, we recomme
 ### Benefits:
 
 - No Mac, PC, or technical setup needed  
-- Works with **ALL iOS versions (iOS 9–iOS 18)**  
+- Works with **ALL iOS versions (iOS 9–iOS 26)**  
 - System-wide spoofing for every app  
 - Static and moving route support in 2 simple steps
 
